@@ -2,6 +2,7 @@
 Moje zrealizowane projekty w ramach homelabu
 
 1. Urządzenia sieciowe:
+
 a. Rutery
 - Wyłączenie niepotrzebnych funkcji na urządzeniach sieciowych jak telnet, ftp itd. w celu zwiększenia bezpieczeństwa w sieci domowej.
 - Konfiguracja rutera od operatora, wyłączenie rozgłaszania WiFi, ustawienie limitów danych, analiza logów.
@@ -22,7 +23,7 @@ d. Zapory ogniowe
 - konfiguracja SSL VPN na zaporze Sophos XG Firewall, konfiguracja polityk.
 - instalacja i konfiguracja Tailscale VPN na urządzeniach.
 
-4. Serwery plików
+3. Serwery plików
 - Konfiguracja serwera plików TrueNAS z udziałem SMB (RAIZD-1) na PC Dell, dołożenie karty sieciowej SFP+ 10Gb, konfiguracja i agregacja interfejsów, tworzenie migawek (snapshotów).
 
 4. Kopie zapasowe i bezpieczeństwo
