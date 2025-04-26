@@ -57,4 +57,4 @@ d. Zapory ogniowe
 8. Dokumentacja
 - Tworzenie dokumentacji tradycyjnej oraz z użyciem aplikacji kontenerowej Netbox.
 
-9. Montaż UPS zapewniających zasilanie awaryjne dla krytycznych elementów sieci (serwery, NAS, ruter, przełączniki, zapory ogniowe, punkty dostępowe).
+9. Montaż UPS zapewniających zasilanie awaryjne dla krytycznych elementów sieci (serwery, NAS, rutery, przełączniki, zapory ogniowe, punkty dostępowe).
